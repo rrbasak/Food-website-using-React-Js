@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+for the social media icons just installed the links from terminal
+--npm install @mui/material @emotion/react @emotion/styled
+--npm install @mui/icons-material
+
+[After that go to this site for social media icons](https://mui.com/material-ui/material-icons/?query=twi&selected=Twitter)
